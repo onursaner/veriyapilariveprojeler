@@ -1,6 +1,6 @@
 # Selection Sort Projesi
 
-1) [22,27,16,2,18,6] serisinin, insertion sort ile aşamaları yukarıdan aşağı olacak şekildeki gösterimi:
+1) [22,27,16,2,18,6] serisinin, insertion sort ile aşamaları yukarıdan aşağı olacak
 
 ```
 [22,27,16,(2),18,6]
@@ -10,7 +10,7 @@
 [(2,6,16,18),22,27]
 ```
 
-şeklindedir.
+şekildedir.
 
 Big-O Notation gösterimi ise;
 
